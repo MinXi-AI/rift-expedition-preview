@@ -1,0 +1,3 @@
+site/** -text -whitespace
+*.md text eol=lf
+*.yml text eol=lf

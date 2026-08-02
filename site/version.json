@@ -1,0 +1,8 @@
+{
+  "channel": "prod",
+  "version": "0.0.0",
+  "sourceCommit": "14b813f1a973e30fffd9db5a40b5e92068e67657",
+  "milestone": "M0",
+  "builtAt": "2026-08-02T12:21:29.511Z",
+  "contentBaseline": "locked_v1"
+}

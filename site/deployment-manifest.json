@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "channel": "prod",
+  "version": "0.0.0",
+  "sourceCommit": "14b813f1a973e30fffd9db5a40b5e92068e67657",
+  "artifactSha256": "d7ef53a6ce3fb52736a3c3b1f0e49da962b908b080c0c55d4999d17db63f8c23",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/BufferResource-B9MMYLas.js",
+      "bytes": 10524,
+      "sha256": "e68894f363362dbe948e1fcf97453d81584c2d702ca60fec78a4370b7b422c67"
+    },
+    {
+      "path": "assets/CanvasPool-CBUE2wup.js",
+      "bytes": 756,
+      "sha256": "6ae96259f4a2bec30ec656331cce0052e3eedaeb75713f22575cc750c8a90cce"
+    },
+    {
+      "path": "assets/CanvasRenderer-DfpJrj4C.js",
+      "bytes": 87341,
+      "sha256": "fd2878e03d331995ab81af3883826eb9746f5b7a45016f6f524788b51f68e78b"
+    },
+    {
+      "path": "assets/Geometry-CmPv165j.js",
+      "bytes": 101609,
+      "sha256": "843091b67162fb492e81c0738004d3ae0ddacfff5fd2ebcfbdf6c5bde5fd7584"
+    },
+    {
+      "path": "assets/RenderTargetSystem-CbmLP_N7.js",
+      "bytes": 71055,
+      "sha256": "775cf755a0b59007fb5e68dfdcda53ee4f52edb91639c9aa51adc2fa26fe72df"
+    },
+    {
+      "path": "assets/browserAll-BxzeNbgJ.js",
+      "bytes": 42581,
+      "sha256": "1d93ba6cebce4dcf5bdf30d77f4bd89905e039f2a8863e53af7efcca125dc739"
+    },
+    {
+      "path": "assets/canvasUtils-MWSuvLZG.js",
+      "bytes": 6021,
+      "sha256": "73c5bd6067d1a4c876708c84ef758b03118586fca67dceeb4d1c5e5e16f916cb"
+    },
+    {
+      "path": "assets/getTextureBatchBindGroup-BfnRJ_ZF.js",
+      "bytes": 342,
+      "sha256": "4fb5fadabfade1a63b2eb788570624775cad43c85f0120afa828d89099691a64"
+    },
+    {
+      "path": "assets/index-Dvj-PqoP.css",
+      "bytes": 3005,
+      "sha256": "cae79589d46ac4841af1327f00ad706bd7b44478d30a835c1abaac191dc154c2"
+    },
+    {
+      "path": "assets/index-UlKnpYUD.js",
+      "bytes": 395488,
+      "sha256": "5c6de473834ef63e55cadf3f2d50af1dffd0b479e99101df8f6ea37b8d37b539"
+    },
+    {
+      "path": "assets/init-LwzemzYp.js",
+      "bytes": 24675,
+      "sha256": "1f866b0fe24aff8c486f3145163dde1215482967fa912f558d226bd3ee36392a"
+    },
+    {
+      "path": "assets/init-Puk_za5y.js",
+      "bytes": 15557,
+      "sha256": "5aa979d3281514370fa17ef7a9bd2264273db38be530512e29e406fff04c76f2"
+    },
+    {
+      "path": "assets/webworkerAll-B5DV03RI.js",
+      "bytes": 54,
+      "sha256": "5fc16385335b707be7b0248e95ad53c4d08377af61becf5ebbf93f7b8daa8e30"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1347,
+      "sha256": "1030738a9fa4deb4d11a16035307a80e4dad048111211fe3e56429517fb05757"
+    },
+    {
+      "path": "manifest.webmanifest",
+      "bytes": 245,
+      "sha256": "5acaa47639b9acb4b29fa7d5a84b84c99fd1efbc9e04cbaf91646d347ef9dbfc"
+    },
+    {
+      "path": "registerSW.js",
+      "bytes": 136,
+      "sha256": "e12c8db54e3cc247034427f2b661b305a78fea7e7cdec1eac179fecec3da0fc7"
+    },
+    {
+      "path": "sw.js",
+      "bytes": 1994,
+      "sha256": "93d799763a64d8b8b693ae20e59c66929e1e9c020a6aa26189f759590733de87"
+    },
+    {
+      "path": "version.json",
+      "bytes": 204,
+      "sha256": "7f25a9f95a1009f97cc8077b9b2b297b4bc4a3da192e4cb0d6e5e759be1b44e6"
+    },
+    {
+      "path": "workbox-71b77ef8.js",
+      "bytes": 16042,
+      "sha256": "44d22232255d079bd751e878075dfb98f7a835710528847a007b8a4fb23ffd5e"
+    }
+  ]
+}
